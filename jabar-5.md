@@ -55,7 +55,7 @@ Jabar-5 - Sukabumi, Jawa Barat
   - [X] ANTV
   - [X] tvOne
   - [X] VTV
-  - [ ]
+  - [X] Jagantara TV
 - **Mux SCM:**
 
   - [X] SCTV
@@ -83,3 +83,5 @@ Jabar-5 - Sukabumi, Jawa Barat
 - [a] Nusantara TV di Sukabumi bersiaran 24/7 tanpa ada sisa alokasi relai Magna Channel. Sementara Magna Channel hanya tampil sebagai logo on-air.
 - [b] MDTV di Sukabumi bersiaran 24/7 tanpa ada sisa alokasi relai BN Channel. Sementara BN Channel hanya tampil sebagai logo on-air.
 - [c] Bersiaran dengan resolusi 720p
+
+**Sumber:** https://id.wikipedia.org/wiki/Daftar_stasiun_televisi_di_Jawa_Barat#Jawa_Barat-5
