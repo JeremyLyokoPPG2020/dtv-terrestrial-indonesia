@@ -12,8 +12,8 @@ Jabar-5 - Sukabumi, Jawa Barat
 | 29    | 538 MHz   | TVRI       | 4       | TVRI Sport                    | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                       | ✅ |     |
 | 32    | 562 MHz   | Metro TV   | 22      | Metro TV                      | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                       | ✅ |     |
 | 32    | 562 MHz   | Metro TV   | 38      | Nusantara TV (via Magna)\[a\] | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-SD-white) | 576p                        |    |     |
-| 32    | 562 MHz   | Metro TV   |         | MDTV (via BN)\[b\]            | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 720p\[c\]                   | ✅ |     |
-| 32    | 562 MHz   | Metro TV   | 102     | MGSTV                         | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 720p\[c\]                   | ✅ |     |
+| 32    | 562 MHz   | Metro TV   |         | MDTV (via BN)\[b\]            | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 720p \[c\]                   | ✅ |     |
+| 32    | 562 MHz   | Metro TV   | 102     | MGSTV                         | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 720p \[c\]                   | ✅ |     |
 | 32    | 562 MHz   | Metro TV   | 103     | Sembada TV                    | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-SD-white) | 576p                        |    |     |
 | 32    | 562 MHz   | Metro TV   | 17      | Garuda TV                     | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                       | ✅ |     |
 | 35    | 586 MHz   | antv       | 26      | ANTV                          | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                       | ✅ |     |
