@@ -4,7 +4,7 @@
 
 Jabar-5 - Sukabumi, Jawa Barat
 
-| Kanal | Frekuensi | Multipleks | Virtual | Nama Channel                  |    | Kualitas Gambar                                               | Kualitas                    | HD | EPG |
+| Kanal | Frekuensi | Multipleks | Virtual | Nama Channel                  | ON | Kualitas Gambar                                               | Kualitas                    | HD | EPG |
 | ----- | --------- | ---------- | ------- | ----------------------------- | -- | ------------------------------------------------------------- | --------------------------- | -- | --- |
 | 29    | 538 MHz   | TVRI       | 1       | TVRI Nasional                 | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                       | ✅ |     |
 | 29    | 538 MHz   | TVRI       | 2       | TVRI Jawa Barat               | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                       | ✅ |     |
@@ -29,7 +29,7 @@ Jabar-5 - Sukabumi, Jawa Barat
 | 41    | 634 Mhz   | RCTI       | 29      | MNCTV                         | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                       | ✅ | ✅  |
 | 41    | 634 Mhz   | RCTI       | 30      | GTV                           | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                       | ✅ | ✅  |
 | 41    | 634 Mhz   | RCTI       | 31      | iNews                         | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                       | ✅ | ✅  |
-| 41    | 634 Mhz   | RCTI       | 32      | RTV                           | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-SD-white) | 1080p (FPS 25, Low Bitrate) |    |     |
+| 41    | 634 Mhz   | RCTI       | 32      | RTV                           | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-SD-white) | 1080p (FPS 25, Low Bitrate, AI) |    |     |
 | 44    | 658 MHz   | Trans TV   | 20      | Trans TV                      | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                       | ✅ | ✅  |
 | 44    | 658 MHz   | Trans TV   | 21      | Trans 7                       | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                       | ✅ | ✅  |
 | 44    | 658 MHz   | Trans TV   | 40      | CNN Indonesia                 | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                       | ✅ | ✅  |
@@ -84,4 +84,4 @@ Jabar-5 - Sukabumi, Jawa Barat
 - [b] MDTV di Sukabumi bersiaran 24/7 tanpa ada sisa alokasi relai BN Channel. Sementara BN Channel hanya tampil sebagai logo on-air.
 - [c] Bersiaran dengan resolusi 720p
 
-**Sumber:** https://id.wikipedia.org/wiki/Daftar_stasiun_televisi_di_Jawa_Barat#Jawa_Barat-5
+**Sumber:** [Daftar stasiun televisi di Jawa Barat - Wikipedia](https://id.wikipedia.org/wiki/Daftar_stasiun_televisi_di_Jawa_Barat#Jawa_Barat-5)
