@@ -4,36 +4,36 @@
 
 Jabar-5 - Sukabumi, Jawa Barat
 
-| Kanal | Frekuensi | Multipleks | Virtual | Nama Channel                  | ON | Kualitas Gambar                                               | Kualitas                        | HD | EPG |
-| ----- | --------- | ---------- | ------- | ----------------------------- | -- | ------------------------------------------------------------- | ------------------------------- | -- | --- |
-| 29    | 538 MHz   | TVRI       | 1       | TVRI Nasional                 | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ |     |
-| 29    | 538 MHz   | TVRI       | 2       | TVRI Jawa Barat               | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ |     |
-| 29    | 538 MHz   | TVRI       | 3       | TVRI World                    | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ |     |
-| 29    | 538 MHz   | TVRI       | 4       | TVRI Sport                    | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ |     |
-| 32    | 562 MHz   | Metro TV   | 22      | Metro TV HD                   | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ |     |
-| 32    | 562 MHz   | Metro TV   | 38      | Nusantara TV (via Magna)\[a\] | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-SD-white) | 576p                            |    |     |
-| 32    | 562 MHz   | Metro TV   |         | MDTV (via BN)\[b\]            | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 720p\[c\]                       | ✅ |     |
-| 32    | 562 MHz   | Metro TV   | 102     | MGSTV                         | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 720p\[c\]                       | ✅ |     |
-| 32    | 562 MHz   | Metro TV   | 103     | Sembada TV                    | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-SD-white) | 576p                            |    |     |
-| 32    | 562 MHz   | Metro TV   | 17      | Garuda TV                     | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           |    |     |
-| 35    | 586 MHz   | antv       | 26      | ANTV HD                       | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ |     |
-| 35    | 586 MHz   | antv       | 27      | tvOne HD                      | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ |     |
-| 35    | 586 MHz   | antv       | 37      | VTV HD                        | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ |     |
-| 35    | 586 MHz   | antv       | 77      | Jagantara TV HD               | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ |     |
-| 38    | 610 MHz   | Indosiar   | 23      | SCTV HD                       | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ | ✅  |
-| 38    | 610 MHz   | Indosiar   | 24      | Indosiar HD                   | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ | ✅  |
-| 38    | 610 MHz   | Indosiar   | 35      | Moji HD                       | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ | ✅  |
-| 38    | 610 MHz   | Indosiar   | 36      | Mentari TV HD                 | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ | ✅  |
-| 38    | 610 MHz   | Indosiar   | 125     | Kompas TV                     | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-SD-white) | 576p                            |    | ✅  |
-| 41    | 634 Mhz   | RCTI       | 28      | RCTI HD                       | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ | ✅  |
-| 41    | 634 Mhz   | RCTI       | 29      | MNCTV HD                      | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ | ✅  |
-| 41    | 634 Mhz   | RCTI       | 30      | GTV HD                        | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ | ✅  |
-| 41    | 634 Mhz   | RCTI       | 31      | iNews HD                      | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ | ✅  |
-| 41    | 634 Mhz   | RCTI       | 32      | RTV                           | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p (FPS 25, Low Bitrate, AI) |    |     |
-| 44    | 658 MHz   | Trans TV   | 20      | Trans TV HD                   | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ | ✅  |
-| 44    | 658 MHz   | Trans TV   | 21      | Trans 7 HD                    | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ | ✅  |
-| 44    | 658 MHz   | Trans TV   | 40      | CNN Indonesia HD              | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ | ✅  |
-| 44    | 658 MHz   | Trans TV   | 41      | CNBC Indonesia HD             | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p                           | ✅ | ✅  |
+| Kanal | Frekuensi | Multipleks | Virtual | Nama Channel                  | ON | Kualitas Gambar                                               | Kualitas  | HD (reference from Wikipedia\[d\]) | EPG |
+| ----- | --------- | ---------- | ------- | ----------------------------- | -- | ------------------------------------------------------------- | --------- | ---------------------------------- | --- |
+| 29    | 538 MHz   | TVRI       | 1       | TVRI Nasional                 | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 |     |
+| 29    | 538 MHz   | TVRI       | 2       | TVRI Jawa Barat               | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 |     |
+| 29    | 538 MHz   | TVRI       | 3       | TVRI World                    | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 |     |
+| 29    | 538 MHz   | TVRI       | 4       | TVRI Sport                    | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 |     |
+| 32    | 562 MHz   | Metro TV   | 22      | Metro TV HD                   | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 |     |
+| 32    | 562 MHz   | Metro TV   | 38      | Nusantara TV (via Magna)\[a\] | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-SD-white) | 576p      |                                    |     |
+| 32    | 562 MHz   | Metro TV   |         | MDTV (via BN)\[b\]            | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 720p\[c\] | ✅                                 |     |
+| 32    | 562 MHz   | Metro TV   | 102     | MGSTV                         | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 720p\[c\] | ✅                                 |     |
+| 32    | 562 MHz   | Metro TV   | 103     | Sembada TV                    | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-SD-white) | 576p      |                                    |     |
+| 32    | 562 MHz   | Metro TV   | 17      | Garuda TV                     | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     |                                    |     |
+| 35    | 586 MHz   | antv       | 26      | ANTV HD                       | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 |     |
+| 35    | 586 MHz   | antv       | 27      | tvOne HD                      | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 |     |
+| 35    | 586 MHz   | antv       | 37      | VTV HD                        | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 |     |
+| 35    | 586 MHz   | antv       | 77      | Jagantara TV HD               | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 |     |
+| 38    | 610 MHz   | Indosiar   | 23      | SCTV HD                       | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 | ✅  |
+| 38    | 610 MHz   | Indosiar   | 24      | Indosiar HD                   | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 | ✅  |
+| 38    | 610 MHz   | Indosiar   | 35      | Moji HD                       | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 | ✅  |
+| 38    | 610 MHz   | Indosiar   | 36      | Mentari TV HD                 | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 | ✅  |
+| 38    | 610 MHz   | Indosiar   | 125     | Kompas TV                     | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-SD-white) | 576p      |                                    | ✅  |
+| 41    | 634 Mhz   | RCTI       | 28      | RCTI HD                       | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 | ✅  |
+| 41    | 634 Mhz   | RCTI       | 29      | MNCTV HD                      | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 | ✅  |
+| 41    | 634 Mhz   | RCTI       | 30      | GTV HD                        | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 | ✅  |
+| 41    | 634 Mhz   | RCTI       | 31      | iNews HD                      | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 | ✅  |
+| 41    | 634 Mhz   | RCTI       | 32      | RTV                           | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 720p\[c\] | ✅                                 |     |
+| 44    | 658 MHz   | Trans TV   | 20      | Trans TV HD                   | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 | ✅  |
+| 44    | 658 MHz   | Trans TV   | 21      | Trans 7 HD                    | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 | ✅  |
+| 44    | 658 MHz   | Trans TV   | 40      | CNN Indonesia HD              | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 | ✅  |
+| 44    | 658 MHz   | Trans TV   | 41      | CNBC Indonesia HD             | ✅ | ![Static Badge](https://img.shields.io/badge/Kualitas-HD-green) | 1080p     | ✅                                 | ✅  |
 
 * **Mux TVRI:**
   - [X] TVRI Nasional
@@ -65,5 +65,4 @@ Jabar-5 - Sukabumi, Jawa Barat
 * \[a\] Nusantara TV di Sukabumi bersiaran 24/7 tanpa ada sisa alokasi relai Magna Channel. Sementara Magna Channel hanya tampil sebagai logo on-air.
 * \[b\] MDTV di Sukabumi bersiaran 24/7 tanpa ada sisa alokasi relai BN Channel. Sementara BN Channel hanya tampil sebagai logo on-air.
 * \[c\] Bersiaran dengan resolusi 720p
-
-**Sumber:** [Daftar stasiun televisi di Jawa Barat - Wikipedia](https://id.wikipedia.org/wiki/Daftar_stasiun_televisi_di_Jawa_Barat#Jawa_Barat-5)
+* \[d\] **Sumber dari Wikipedia** [Daftar stasiun televisi di Jawa Barat - Wikipedia](https://id.wikipedia.org/wiki/Daftar_stasiun_televisi_di_Jawa_Barat#Jawa_Barat-5)
